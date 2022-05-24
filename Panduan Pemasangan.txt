@@ -1,0 +1,13 @@
+Ekstract file zip, lalu taruhkan di document
+
+Instal terlebih dahulu node js di websitenya(Pastikan install versi LTS)
+
+Untuk menjalankan. 
+
+tekan window+R, lalu ketik cmd, kemudian enter
+
+di command Line, Ketik cd Documents/Data Mahasiswa, lalu enter
+
+lalu ketik npm run dev
+
+Tunggu untuk beberapa saat, lalu pergi ke website, masukkan link "localhost:3000"
